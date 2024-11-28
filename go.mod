@@ -1,6 +1,6 @@
-module github.com/Yandex-Practicum/42-docker-final
+module github.com/alexeybudnikov/docker-final-task
 
-go 1.22.0
+go 1.22.5
 
 require (
 	github.com/stretchr/testify v1.8.4
